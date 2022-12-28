@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mauricio Montenegro</h1>
+<h1 align="center">Hola 👋, Soy Mauricio Montenegro</h1>
 <h3 align="center">Soy un apasionado por la programación</h3>
 
 - 💬 Ask me about **Html,Css,Sass,Bootstrap,Javascript,Typescript,Angular,PHP,C#,.NET**
