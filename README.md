@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Mauricio Montenegro</h1>
 <h3 align="center">Soy un apasionado por la programación</h3>
 
-- 💬 Ask me about **Html,Css,Sass,Bootstrap,Javascript,Typescript,Angular,PHP,C#,.NET**
+- 💬 Ask me about **Html,Css,Sass,Bootstrap,Javascript,Typescript,Angular,PHP, C# ,.NET**
 
 - 📫 How to reach me **maur1025@hotmail.com**
 
